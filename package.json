@@ -1,0 +1,15 @@
+{
+  "name": "vatsim-multiproxy",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "yarn pkg index.js --targets node14-win-x64 --output multiproxy"
+  },
+  "dependencies": {
+    "cap": "^0.2.1",
+    "chalk": "^4.1.1"
+  },
+  "devDependencies": {
+    "pkg": "^5.1.0"
+  }
+}
