@@ -28,6 +28,10 @@ I'm not a VATSIM staff member so I cannot guarantee anything, but to my knowledg
 
 Make sure you installed Npcap with WinPcap compatibility mode enabled.
 
+**What's happening? Some of the aircraft are invisible!**
+
+Due to the way this works, you may have to wait for them to move positions until they show up. You may also be able to disconnect and reconnect your radar client.
+
 **I tried to connect a radar client to the proxy but it isn't working properly, what's the issue?**
 
 Multiproxy does not send any outbound packets so not everything may work as expected, and at least so far I haven't tested any radar client connections.
