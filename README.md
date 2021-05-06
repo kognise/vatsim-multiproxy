@@ -9,7 +9,7 @@ It works by listening to inbound traffic from VATSIM and forwarding it to connec
 ## Installation and Usage
 
 - Install [Npcap](https://nmap.org/npcap/dist/npcap-1.31.exe) (make sure WinPcap compatibility mode is enabled)
-- Download the Multiproxy executable
+- Download the [Multiproxy executable](https://github.com/kognise/vatsim-multiproxy/releases/latest)
 - Open a Command Prompt window in the folder you downloaded Multiproxy to, an easy way is to click in the top bar of File Explorer and type `cmd`
 - Type `.\multiproxy` to get a list of network interfaces
 - Type `.\multiproxy <INTERFACE>`, with the name of a valid network interface
