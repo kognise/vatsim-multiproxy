@@ -1,3 +1,7 @@
+> 🚧 **This project is maintenance mode!** 🚧
+> 
+> I will be fixing and responding to pull requests and issues, but it is not in active development.
+
 # VATSIM Multiproxy
 
 Every wanted tower view for VRC, or to test a new radar client while keeping your primary? VATSIM Multiproxy is a simple CoC-friendly packet sniffing local proxy server.
